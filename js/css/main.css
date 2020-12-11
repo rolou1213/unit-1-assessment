@@ -1,0 +1,40 @@
+html {
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    
+}
+
+h1 {
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    
+}
+
+div{
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+    padding:10px;
+
+}
+button{
+    height: 70px;
+    width:70px;
+    font-size:xx-large;
+    color: rgb(247, 239, 239);
+    background-color:rgb(165, 159, 159) ;
+    margin:10px;
+}
+Button:hover, .MyButton:focus {
+    color: rgb(165, 159, 159);
+    background-color:rgb(247, 239, 239)
+ }
+input{
+    height: 60px;
+    width:140px;
+    border-radius: rgb(88, 86, 86);
+    text-align: center;
+
+}
